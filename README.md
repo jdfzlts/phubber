@@ -1,6 +1,6 @@
 # phubber
 
 
-### demo
+### An Intelligent Recognition Method and System of "Phubber" based on Object Detection and Pose Estimation Algorithm
 
-phubber detection demo video : `PhubberDetectDemo.mp4`
+system testing video : `PhubberDetectDemo.mp4`
